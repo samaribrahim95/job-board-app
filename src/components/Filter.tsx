@@ -33,7 +33,7 @@ const Filter = (props: Props) => {
   }
 
   return <div className="grid grid-cols-3 gap-3 my-5">
-    <div className="col-span-2">
+    <div className="md:col-span-2 col-span-3">
       <input 
         type="text" 
         value={jobTitle} 
@@ -42,7 +42,7 @@ const Filter = (props: Props) => {
         onChange={(e) =>  filterByName(e)}
       />
     </div>
-    <div className="col-span-1">
+    <div className="md:col-span-1 col-span-3">
       <select className="w-full p-4 border border-zinc-200 shadow-sm rounded-lg" onChange={(e) => filterByCat(e)}>
         <option value=''>All</option>
         {
