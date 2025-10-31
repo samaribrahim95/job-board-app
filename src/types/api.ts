@@ -1,0 +1,1 @@
+export type ApiOptions<T> = { successCallback?: (data: T) => void, errCallback?: () => void }

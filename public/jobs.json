@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechNova",
+    "location": "Remote",
+    "category": "Frontend",
+    "description": "We are looking for a skilled React developer with experience in TypeScript and modern frontend tooling."
+  },
+  {
+    "id": 2,
+    "title": "Backend Engineer",
+    "company": "DataCore",
+    "location": "Berlin, Germany",
+    "category": "Backend",
+    "description": "Work with Node.js and Express to build scalable backend services."
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "company": "DevHub",
+    "location": "New York, USA",
+    "category": "Full Stack",
+    "description": "Join our team to build end-to-end web applications using React and Node.js."
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Designer",
+    "company": "PixelWorks",
+    "location": "Remote",
+    "category": "Design",
+    "description": "Design modern, user-friendly web interfaces and collaborate with frontend developers."
+  },
+  {
+    "id": 5,
+    "title": "Mobile Developer",
+    "company": "Appify",
+    "location": "Dubai, UAE",
+    "category": "Mobile",
+    "description": "Develop and maintain React Native applications for Android and iOS platforms."
+  }
+]
